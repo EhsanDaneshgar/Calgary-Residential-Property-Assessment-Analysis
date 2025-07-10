@@ -13,7 +13,7 @@ This Power BI dashboard presents a geographic and value-based analysis of Calgar
 
 ### 2. **City Sector Filter (Tile Format)**
 - Selectable buttons for sectors:
-  - **Centre**, **South**, **North**, **Northwest**, **Northeast**, **East**, **West**and **Select All**
+  - **Centre**, **South**, **North**, **Northwest**, **Northeast**, **East**, **West** and **Select All**
 - Dynamically filters the **bar chart** and **map** to focus on selected regions.
 
 ### 3. **Bar Chart: Property Count by Sector & Value Range**
