@@ -82,8 +82,8 @@ This project is based on open public assessment data provided by the **City of C
 
 **Ehsan Daneshgar**  
 📍 Calgary, AB  
-📧 [your email here]  
-🔗 [LinkedIn or GitHub profile]
+📧 [e.daneshgar@gmail.com] 
+🔗 [https://www.linkedin.com/in/ehsan-daneshgar/]
 
 ---
 
