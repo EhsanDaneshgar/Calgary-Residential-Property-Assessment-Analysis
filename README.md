@@ -41,8 +41,7 @@ This Power BI dashboard presents a geographic and value-based analysis of Calgar
   - A stylized arrow guides attention from the name to the value card.
 
 ### 7. **City-wide Highlight**
-- One card highlights that the **most expensive residential property in Calgary** is valued at **$221 million**.
-
+- One card now shows that the **most expensive residential property in Calgary** is valued at **$248 million**, based on the most recent assessment data.
 ---
 
 ## 🖼️ Sample Screenshots
@@ -65,8 +64,17 @@ This Power BI dashboard presents a geographic and value-based analysis of Calgar
 
 ## 🔍 Data Source
 
-*(Coming soon — Ehsan will provide source information for the open dataset used)*  
-This project is based on open public assessment data provided by the **City of Calgary**.
+This dashboard is powered by real open data provided by the **City of Calgary**.
+
+- **Total Property Assessed Value** (Main dataset used in visuals):  
+  https://data.calgary.ca/Government/Total-Property-Assessed-Value/dmd8-bmxh
+
+Other datasets (API and CSV) were sourced from Calgary’s Open Data Portal and include:
+- City Planning Sectors (API)
+- Ward Boundaries (API)
+- Community Populations
+- Residential Structure Assessments
+
 
 ---
 
@@ -92,34 +100,6 @@ This project is based on open public assessment data provided by the **City of C
 - Add year-over-year trends of property assessments
 - Include exportable insights (PDF or Excel)
 - Add slicers for community or postal code
-
----
-# 🏡 Calgary Residential Property Assessment Analysis
-
-**Prepared and visualized by:** Ehsan Daneshgar  
-**Contact:** e.daneshgar@gmail.com  
-**Last updated:** July 10, 2025  
-
-## 📄 Overview  
-This Power BI report provides an interactive analysis of residential property assessments in Calgary. The dashboard includes:
-
-- Total number of properties by assessed value range  
-- Community-level distribution and ranking  
-- Identification of high-value residential clusters  
-- Filters by community, value range, and assessment type  
-
-## 🔍 Key Highlights (2025 Update)
-- **Most expensive residential property assessed at:** $248 million  
-- Categories used for analysis:  
-  - Less than $300,000  
-  - $300,000 to $1,000,000  
-  - $1,000,000 to $2,000,000  
-  - $2,000,000 to $5,000,000  
-  - More than $5,000,000  
-
-## 📂 Data Source  
-Data was retrieved from the **City of Calgary Open Data Portal**:  
-[Total Property Assessed Value – data.calgary.ca](https://data.calgary.ca/Government/Total-Property-Assessed-Value/dmd8-bmxh)
 
 ## ✅ Notes  
 - The report reflects the most recent dataset available as of July 10, 2025.  
