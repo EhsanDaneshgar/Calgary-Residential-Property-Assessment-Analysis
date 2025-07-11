@@ -49,7 +49,7 @@ This Power BI dashboard presents a geographic and value-based analysis of Calgar
 
 | Dashboard Overview | Map & Chart Example |
 |--------------------|---------------------|
-| ![Overview](./images/dashboard_overview.png) | ![Map](./images/map_and_chart.png) |
+| ![Overview](./images/Screenshot 2025-07-11 112444.png) | ![Map](./images/map_and_chart.png) |
 
 ---
 
@@ -59,7 +59,7 @@ This Power BI dashboard presents a geographic and value-based analysis of Calgar
 |------|-------------|
 | `powerbi/Calgary_Property_Assessment.pbix` | Power BI report file |
 | `images/` | Contains screenshots used in this README |
-| *(optional)* `data/` | Filtered or reference data used in the model |
+
 
 ---
 
@@ -98,10 +98,7 @@ Additional datasets (CSV or API):
 
 ## 💡 Future Enhancements
 
-- Add year-over-year trends of property assessments
-- Include exportable insights (PDF or Excel)
-- Add slicers for community or postal code
-- Incorporate demographic overlays (age, household size)
+- (coming soon)
 
 ---
 
