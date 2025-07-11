@@ -1,5 +1,7 @@
 # 🏘 Calgary Residential Property Assessment Analysis (Power BI)
 
+![Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-blue?logo=power-bi)
+
 This Power BI dashboard presents a geographic and value-based analysis of Calgary's residential property assessments. It allows users to visually explore the most expensive communities and the distribution of property values across city sectors.
 
 ---
