@@ -101,10 +101,13 @@ Other datasets (API and CSV) were sourced from Calgary’s Open Data Portal and 
 - Include exportable insights (PDF or Excel)
 - Add slicers for community or postal code
 
-## ✅ Notes  
+## 🧱 Notes  
 - The report reflects the most recent dataset available as of July 10, 2025.  
 - All values are in Canadian dollars (CAD).  
 - This dashboard is intended for educational and analytical purposes.
+- Relationships were created manually; **Auto-detect relationships** was disabled to ensure control over joins.
+
+
 
 
 
