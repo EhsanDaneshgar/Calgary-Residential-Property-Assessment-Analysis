@@ -47,9 +47,10 @@ This Power BI dashboard presents a geographic and value-based analysis of Calgar
 
 ## 🖼️ Sample Screenshots
 
-| Dashboard Overview | Map & Chart Example |
-|--------------------|---------------------|
-| ![Overview](./images/Screenshot 2025-07-11 112444.png) | ![Map](./images/map_and_chart.png) |
+| Dashboard Overview |
+|--------------------|
+| ![Overview](./images/Screenshot%202025-07-11%20112444.png) |
+
 
 ---
 
